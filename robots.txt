@@ -1,0 +1,8 @@
+# hexo robots.txt
+User-agent: *
+Disallow: 
+Disallow: /css/
+Disallow: /js/
+Disallow: /lib/
+Sitemap: https://this.red/sitemap.xml
+Sitemap: https://this.red/baidusitemap.xml
